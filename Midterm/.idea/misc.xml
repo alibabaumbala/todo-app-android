@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Learn/Midterm/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.222" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/drawable/add_task.xml" value="0.222" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/drawable/bg_list.xml" value="0.222" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/drawable/bg_right.xml" value="0.222" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/drawable/button_bg.xml" value="0.222" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/drawable/etext_bg.xml" value="0.222" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.222" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.222" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/drawable/ic_launcher_background.xml" value="0.222" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/drawable/signin_background.xml" value="0.222" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/drawable/vie_bg.xml" value="0.222" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/font/title_font.xml" value="0.3182777543267201" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/layout/activity_add_task.xml" value="0.35280797101449274" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/layout/activity_modify_task.xml" value="0.35280797101449274" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/layout/activity_test.xml" value="0.35280797101449274" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/layout/activity_todo.xml" value="0.33" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/layout/activity_todo_sublayout.xml" value="0.33" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/layout/loading_progress.xml" value="0.35280797101449274" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/menu/custom_menu.xml" value="0.2975630611372381" />
+        <entry key="..\:/Learn/Midterm/app/src/main/res/menu/todo_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/semi_final_Midterm/Midterm/app/src/main/res/layout/activity_add_task.xml" value="0.16636446056210336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/semi_final_Midterm/Midterm/app/src/main/res/layout/activity_main.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/semi_final_Midterm/Midterm/app/src/main/res/layout/activity_modify_task.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/semi_final_Midterm/Midterm/app/src/main/res/layout/activity_sign_up.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/semi_final_Midterm/Midterm/app/src/main/res/layout/activity_todo.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/semi_final_Midterm/Midterm/app/src/main/res/layout/activity_todo_sublayout.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/semi_final_Midterm/Midterm/app/src/main/res/layout/loading_progress.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/semi_final_Midterm/Midterm/app/src/main/res/menu/todo_menu.xml" value="0.20863616930312098" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

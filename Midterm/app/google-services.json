@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "256115795159",
+    "project_id": "midterm-54d06",
+    "storage_bucket": "midterm-54d06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256115795159:android:ba695b994ba2c2d357bc92",
+        "android_client_info": {
+          "package_name": "com.example.midterm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256115795159-5176n83a0enqs7262rnefkpn1o94acq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.midterm",
+            "certificate_hash": "4a069c95c137209e150d8f7291abeae5a7f8be94"
+          }
+        },
+        {
+          "client_id": "256115795159-9geaf4pbvslleasrnbbqlfobtir36i6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrrdvwPnuW1ab-QZNPsNZ7IYyHi-nNOjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256115795159-9geaf4pbvslleasrnbbqlfobtir36i6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
